@@ -4,7 +4,7 @@
 title: metaspan boot nodes for asset-hub-westend
 
 doc:
-  - audience: Runtime Dev
+  - audience: Node Operator
     description: |
       amend metaspan boot nodes for asset-hub-westend
 
